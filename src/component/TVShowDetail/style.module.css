@@ -1,0 +1,28 @@
+.title {
+    font-weight: 400;
+    font-size: 35px;
+    margin-top: 27px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  
+.rating_container{
+  display: flex;
+}
+
+.rating{
+  margin-top: 3px;
+  margin-left: 5px;
+}
+
+.overview:hover {
+    overflow-y: auto;
+  }
+
+.overview {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size:   20px;
+    height:      160px;
+    overflow-y:  hidden;
+    margin-top:  10px;
+  }
